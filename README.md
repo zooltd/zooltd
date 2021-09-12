@@ -1,4 +1,4 @@
-### Hi there, I'm Youhan WU (吴友涵 in Chinese)!👋
+### Hi there, I'm Youhan Wu (吴友涵 in Chinese)!👋
 
 I'm currently a MCS student at Rice University.
 
