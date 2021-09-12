@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Youhan WU (吴友涵 in Chinese)!👋
+
+I'm currently a MCS student at Rice University.
+
+---
+
+[![Youhan's github stats](https://github-readme-stats.vercel.app/api?username=zooltd&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zooltd&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zooltd/zooltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
