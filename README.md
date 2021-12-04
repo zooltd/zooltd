@@ -1,9 +1,3 @@
-### Hi there, I'm Youhan Wu (吴友涵 in Chinese)!👋
-
-I'm currently a MCS student at Rice University.
-
----
-
 [![Youhan's github stats](https://github-readme-stats.vercel.app/api?username=zooltd&theme=default&show_icons=true&count_private=true)](https://github.com/zooltd/)
 
 <!--
